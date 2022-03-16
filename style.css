@@ -39,7 +39,7 @@ nav {
 
 .header {
     padding-left: 0;
-    background-image: url("./images/desktop/image-header.jpg");
+    background-image: url("images/desktop/image-header.jpg");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -161,11 +161,11 @@ p{
 } */
 
 .cherry-img {
-    background-image: url("./images/desktop/image-graphic-design.jpg");
+    background-image: url("images/desktop/image-graphic-design.jpg");
 }
 
 .orange-img {
-    background-image: url("./images/desktop/image-photography.jpg");
+    background-image: url("images/desktop/image-photography.jpg");
 }
 
 .spacer {
